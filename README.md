@@ -4,7 +4,7 @@
 
 ## 🚀 About me
 
-I am currently a student at the 42 School’s programming campus, where I have spent the last year developing my skills—not only in programming, but also through their self-directed learning methodology based on independent projects, which helps us develop skills that are useful in the workplace, such as problem-solving, teamwork and team leadership.
+<p>I am currently a student at the 42 School’s programming campus, where I have spent the last year developing my skills—not only in programming, but also through their self-directed learning methodology based on independent projects, which helps us develop skills that are useful in the workplace, such as problem-solving, teamwork and team leadership.</p>
 
 ---
 
