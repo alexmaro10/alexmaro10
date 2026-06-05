@@ -1,14 +1,14 @@
-# 👋 Hola, soy Alejandro Maldonado
+# 👋 Hi, I'm Alejandro Maldonado
 
-<img src="https://i.ibb.co/SwkL8J6t/Banner-Para-Linkedin-Recursos-Humanos-Fotogr-fico-Gris-Claro.png" alt="Banner-Para-Linkedin-Recursos-Humanos-Fotogr-fico-Gris-Claro" border="0" style="width: 100%">
+<img src="https://i.ibb.co/XrVb90p0/Screenshot-from-2026-06-05-15-43-13.png" width="100%">
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-Actualmente soy estudiante en el campus de programación de 42 school donde llevo un año desarrollando mis habilidades, no solo en programación, si no que con su metodologia de enseñanza autodidacta a traves de proyectos independientes tambien nos ayuda a desarrollar skills útiles en mundo laboral como pueden ser la resolucion de problemas, el trabajo en equipo y la dirección de equipos.
+I am currently a student at the 42 School’s programming campus, where I have spent the last year developing my skills—not only in programming, but also through their self-directed learning methodology based on independent projects, which helps us develop skills that are useful in the workplace, such as problem-solving, teamwork and team leadership.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & tools
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="70"/>
@@ -26,7 +26,7 @@ Actualmente soy estudiante en el campus de programación de 42 school donde llev
 
 ---
 
-## 🤝 Contacto
+## 🤝 Contact
 
 <p align="center">
     <a href="https://www.linkedin.com/in/alejandro-maldonado-robles-79873730a/">
