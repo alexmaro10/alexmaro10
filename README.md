@@ -101,7 +101,7 @@ Este repositorio es mi **portfolio del Common Core de 42**, donde documento:
 
 |              Proyecto              |         Descripción          |  Estado |
 | ---------------------------------- | ---------------------------- | ------- |
-| [Libft](https://github.com/alexmaro10/42-CURSUS---PROJECTS/1_Libft)                 | Librería estándar en C       | 🟢 125% |
+| [Libft](42-CURSUS---PROJECTS/1_Libft)                 | Librería estándar en C       | 🟢 125% |
 | [ft_printf](./42-CURSUS---PROJECTS/2_ft_printf)         | Implementación de printf     | 🟢 100% |
 | [get_next_line](./42-CURSUS---PROJECTS/3_get_next_line) | Lectura de archivos          | 🟢 103% |
 | [push_swap](./42-CURSUS---PROJECTS/4_push_swap)         | Algoritmos de ordenación     | 🟢 100% |
