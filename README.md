@@ -57,6 +57,62 @@
 </div>
 
 <br><br>
+---
+
+# 🧠💻 42 Common Core Portfolio
+
+<p align="center">
+  <img src="https://www.42malaga.com/wp-content/uploads/2021/01/42-Malaga-Fundacion-Telefonica.png" alt="42 banner" width="800"/>
+</p>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/libft_bonus.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/born2beroot.webp" width="100" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/ft_printf.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/get_next_line.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/push_swap.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/so_long_bonus.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/minitalk.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/minishell.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/netpractice.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/philosophers.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/cpp.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/cub3d_bonus.webp" width="100" />
+	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/ft_irc_bonus.webp" width="100" />
+
+	
+</div>
+
+---
+
+## ✨ Sobre este repositorio
+
+Este repositorio es mi **portfolio del Common Core de 42**, donde documento:
+
+* 🛠 Proyectos completados
+* 📈 Progreso personal
+* 🧩 Retos técnicos superados
+* 📚 Conocimientos adquiridos
+
+> 💡 Todo el aprendizaje está basado en metodología **peer-to-peer** y aprendizaje autónomo.
+
+---
+
+## 🗂️ Navegación rápida
+
+|              Proyecto              |         Descripción          |  Estado |
+| ---------------------------------- | ---------------------------- | ------- |
+| [Libft](./1_Libft)                 | Librería estándar en C       | 🟢 125% |
+| [ft_printf](./2_ft_printf)         | Implementación de printf     | 🟢 100% |
+| [get_next_line](./3_get_next_line) | Lectura de archivos          | 🟢 103% |
+| [push_swap](./4_push_swap)         | Algoritmos de ordenación     | 🟢 100% |
+| [so_long](./5_so_long)             | Juego 2D                     | 🟢 125% |
+| [minitalk](./6_minitalk)           | Señales UNIX                 | 🟢 100% |
+| [philosophers](./8_Philosophers)   | Concurrencia                 | 🟢 100% |
+| [minishell](./7_minishell)         | Shell UNIX                   | 🟢 100% |
+| [cub3D](./9_cub3D)                 | Juego 3D (Raycasting)        | 🟢 120% |
+| [ft_irc](./10_ft_irc)              | Servidor IRC                 | 🟢 125% |
+| [CPP](./CPP)                       | Introduccion al lenguaje C++ | 🟡 60%  |
+
 
 ---
 
