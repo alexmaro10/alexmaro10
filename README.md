@@ -101,17 +101,17 @@ Este repositorio es mi **portfolio del Common Core de 42**, donde documento:
 
 |              Proyecto              |         Descripción          |  Estado |
 | ---------------------------------- | ---------------------------- | ------- |
-| [Libft](../../../42-CURSUS---PROJECTS/1_Libft)                 | Librería estándar en C       | 🟢 125% |
-| [ft_printf](./42-CURSUS---PROJECTS/2_ft_printf)         | Implementación de printf     | 🟢 100% |
-| [get_next_line](./42-CURSUS---PROJECTS/3_get_next_line) | Lectura de archivos          | 🟢 103% |
-| [push_swap](./42-CURSUS---PROJECTS/4_push_swap)         | Algoritmos de ordenación     | 🟢 100% |
-| [so_long](./42-CURSUS---PROJECTS/5_so_long)             | Juego 2D                     | 🟢 125% |
-| [minitalk](./42-CURSUS---PROJECTS/6_minitalk)           | Señales UNIX                 | 🟢 100% |
-| [philosophers](./42-CURSUS---PROJECTS/8_Philosophers)   | Concurrencia                 | 🟢 100% |
-| [minishell](./42-CURSUS---PROJECTS/7_minishell)         | Shell UNIX                   | 🟢 100% |
-| [cub3D](./42-CURSUS---PROJECTS/9_cub3D)                 | Juego 3D (Raycasting)        | 🟢 120% |
-| [ft_irc](./42-CURSUS---PROJECTS/10_ft_irc)              | Servidor IRC                 | 🟢 125% |
-| [CPP](./42-CURSUS---PROJECTS/CPP)                       | Introduccion al lenguaje C++ | 🟡 60%  |
+| [Libft](../../../42-CURSUS---PROJECTS/tree/main/1_Libft)                 | Librería estándar en C       | 🟢 125% |
+| [ft_printf](../../../42-CURSUS---PROJECTS/tree/main/2_ft_printf)         | Implementación de printf     | 🟢 100% |
+| [get_next_line](../../../42-CURSUS---PROJECTS/tree/main/3_get_next_line) | Lectura de archivos          | 🟢 103% |
+| [push_swap](../../../42-CURSUS---PROJECTS/tree/main/4_push_swap)         | Algoritmos de ordenación     | 🟢 100% |
+| [so_long](../../../42-CURSUS---PROJECTS/tree/main/5_so_long)             | Juego 2D                     | 🟢 125% |
+| [minitalk](../../../42-CURSUS---PROJECTS/tree/main/6_minitalk)           | Señales UNIX                 | 🟢 100% |
+| [philosophers](../../../42-CURSUS---PROJECTS/tree/main/8_Philosophers)   | Concurrencia                 | 🟢 100% |
+| [minishell](../../../42-CURSUS---PROJECTS/tree/main/7_minishell)         | Shell UNIX                   | 🟢 100% |
+| [cub3D](../../../42-CURSUS---PROJECTS/tree/main/9_cub3D)                 | Juego 3D (Raycasting)        | 🟢 120% |
+| [ft_irc](../../../42-CURSUS---PROJECTS/tree/main/10_ft_irc)              | Servidor IRC                 | 🟢 125% |
+| [CPP](../../../42-CURSUS---PROJECTS/tree/main/CPP)                       | Introduccion al lenguaje C++ | 🟡 60%  |
 
 
 ---
