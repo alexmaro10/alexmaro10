@@ -35,7 +35,7 @@
 ## 🦾 Working on
 <div align="center" text-align="center">
   
-| Mi Portfolio | 
+| My Portfolio | 
 |--------------| 
 |<img src="https://i.ibb.co/5x8dsxqp/Screenshot-from-2026-06-05-16-22-17.png" alt="Screenshot-from-2026-06-05-16-22-17" border="0" width="100%">|
 |HTML - CSS - JavaScript|
@@ -84,34 +84,34 @@
 
 ---
 
-## ✨ Sobre este repositorio
+## ✨ About this repository
 
-Este repositorio es mi **portfolio del Common Core de 42**, donde documento:
+This repository is my **42 Common Core portfolio**, where I document:
 
-* 🛠 Proyectos completados
-* 📈 Progreso personal
-* 🧩 Retos técnicos superados
-* 📚 Conocimientos adquiridos
+* 🛠 Completed projects
+* 📈 Personal progress
+* 🧩 Technical challenges overcome
+* 📚 Knowledge gained
 
-> 💡 Todo el aprendizaje está basado en metodología **peer-to-peer** y aprendizaje autónomo.
+> 💡 All learning is based on a **peer-to-peer** methodology and self-directed learning.
 
 ---
 
-## 🗂️ Navegación rápida
+## 🗂️ Navigation
 
-|              Proyecto              |         Descripción          |  Estado |
+|              Project              |         Description          |  State |
 | ---------------------------------- | ---------------------------- | ------- |
-| [Libft](../../../42-CURSUS---PROJECTS/tree/main/1_Libft)                 | Librería estándar en C       | 🟢 125% |
-| [ft_printf](../../../42-CURSUS---PROJECTS/tree/main/2_ft_printf)         | Implementación de printf     | 🟢 100% |
-| [get_next_line](../../../42-CURSUS---PROJECTS/tree/main/3_get_next_line) | Lectura de archivos          | 🟢 103% |
-| [push_swap](../../../42-CURSUS---PROJECTS/tree/main/4_push_swap)         | Algoritmos de ordenación     | 🟢 100% |
-| [so_long](../../../42-CURSUS---PROJECTS/tree/main/5_so_long)             | Juego 2D                     | 🟢 125% |
-| [minitalk](../../../42-CURSUS---PROJECTS/tree/main/6_minitalk)           | Señales UNIX                 | 🟢 100% |
-| [philosophers](../../../42-CURSUS---PROJECTS/tree/main/8_Philosophers)   | Concurrencia                 | 🟢 100% |
+| [Libft](../../../42-CURSUS---PROJECTS/tree/main/1_Libft)                 | C standard library      | 🟢 125% |
+| [ft_printf](../../../42-CURSUS---PROJECTS/tree/main/2_ft_printf)         | Printf implementation     | 🟢 100% |
+| [get_next_line](../../../42-CURSUS---PROJECTS/tree/main/3_get_next_line) | File reading          | 🟢 103% |
+| [push_swap](../../../42-CURSUS---PROJECTS/tree/main/4_push_swap)         | Sorting algorithms    | 🟢 100% |
+| [so_long](../../../42-CURSUS---PROJECTS/tree/main/5_so_long)             | 2D game                     | 🟢 125% |
+| [minitalk](../../../42-CURSUS---PROJECTS/tree/main/6_minitalk)           | UNIX signs                 | 🟢 100% |
+| [philosophers](../../../42-CURSUS---PROJECTS/tree/main/8_Philosophers)   | concurrency                | 🟢 100% |
 | [minishell](../../../42-CURSUS---PROJECTS/tree/main/7_minishell)         | Shell UNIX                   | 🟢 100% |
-| [cub3D](../../../42-CURSUS---PROJECTS/tree/main/9_cub3D)                 | Juego 3D (Raycasting)        | 🟢 120% |
-| [ft_irc](../../../42-CURSUS---PROJECTS/tree/main/10_ft_irc)              | Servidor IRC                 | 🟢 125% |
-| [CPP](../../../42-CURSUS---PROJECTS/tree/main/CPP)                       | Introduccion al lenguaje C++ | 🟡 60%  |
+| [cub3D](../../../42-CURSUS---PROJECTS/tree/main/9_cub3D)                 | 3D game (Raycasting)        | 🟢 120% |
+| [ft_irc](../../../42-CURSUS---PROJECTS/tree/main/10_ft_irc)              | IRC server                 | 🟢 125% |
+| [CPP](../../../42-CURSUS---PROJECTS/tree/main/CPP)                       | Introduction to the C++ language | 🟡 60%  |
 
 
 ---
