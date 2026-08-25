@@ -99,6 +99,8 @@ This repository is my **42 Common Core portfolio**, where I document:
 
 ## 🗂️ Navigation
 
+<div align="center" text-align="center">
+	
 |              Project              |         Description          |  State |
 | ---------------------------------- | ---------------------------- | ------- |
 | [Libft](../../../42-CURSUS---PROJECTS/tree/main/1_Libft)                 | C standard library      | 🟢 125% |
@@ -113,6 +115,7 @@ This repository is my **42 Common Core portfolio**, where I document:
 | [ft_irc](../../../42-CURSUS---PROJECTS/tree/main/10_ft_irc)              | IRC server                 | 🟢 125% |
 | [CPP](../../../42-CURSUS---PROJECTS/tree/main/CPP)                       | Introduction to the C++ language | 🟡 60%  |
 
+</div>
 
 ---
 
