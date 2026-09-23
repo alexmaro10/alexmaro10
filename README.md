@@ -63,7 +63,7 @@
 # 🧠💻 42 Common Core Portfolio
 
 <p align="center">
-  <img src="https://candidatura.42malaga.com/uploads/admissions/campus/logo_website/32/42Malaga-horiz-black__4_.svg" alt="42 banner" width="700"/>
+  <img src="./42Malaga-horiz-black__4_.svg" alt="42 banner" width="700"></img>
 </p>
 <div align="center">
 	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/libft_bonus.webp" width="100" />
