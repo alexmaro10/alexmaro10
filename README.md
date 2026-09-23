@@ -32,13 +32,14 @@
 
 ---
 
-## 🦾 Working on
+## 🦾 Last Project Complete
 <div align="center" text-align="center">
   
-| My Portfolio | 
+| UEFA Nations League Predictor | 
 |--------------| 
-|<img src="https://i.ibb.co/5x8dsxqp/Screenshot-from-2026-06-05-16-22-17.png" alt="Screenshot-from-2026-06-05-16-22-17" border="0" width="100%">|
-|HTML - CSS - JavaScript|
+|<img src="https://github.com/alexmaro10/UEFA-Nations-League-Predictor/blob/main/images/captura_1.png" alt="Screenshot-from-2026-06-05-16-22-17" border="0" width="100%">|
+|HTML - CSS - JavaScript - Python|
+| REACT + Vite - Tailwind - FastApi - Uvicorn |
 
 </div>
 
