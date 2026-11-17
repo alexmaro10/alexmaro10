@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Alejandro Maldonado
+# 👋 Hola, soy Alejandro Maldonado
 
 <img src="https://i.ibb.co/XrVb90p0/Screenshot-from-2026-06-05-15-43-13.png" width="100%">
 <br><br>
-## 🚀 About me
+## 🚀 Sobre mí
 
-<p>I am currently a student at the 42 School’s programming campus, where I have spent the last year developing my skills—not only in programming, but also through their self-directed learning methodology based on independent projects, which helps us develop skills that are useful in the workplace, such as problem-solving, teamwork and team leadership.</p>
+<p>Actualmente soy estudiante en el campus de programación de 42 School, donde he pasado el último año desarrollando mis habilidades, no solo en programación, sino también a través de su metodología de aprendizaje autodirigido basada en proyectos independientes, que nos ayuda a desarrollar competencias útiles en el entorno laboral, como la resolución de problemas, el trabajo en equipo y el liderazgo de equipos.</p>
 
 <br><br>
 
 ---
 
-## 🛠️ Technologies & tools
+## 🛠️ Tecnologías y herramientas
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🦾 Last Project Complete
+## 🦾 Último proyecto completado
 <div align="center" text-align="center">
   
 | UEFA Nations League Predictor | 
@@ -46,7 +46,7 @@
 <br><br>
 
 ---
-## Other projects
+## Otros proyectos
 
 <div align="center">
 
@@ -60,10 +60,10 @@
 <br><br>
 ---
 
-# 🧠💻 42 Common Core Portfolio
+# 🧠💻 Portfolio del Common Core de 42
 
 <p align="center">
-  <img src="./42Malaga-horiz-black__4_.svg" alt="42 banner" width="700"></img>
+  <img src="./42Malaga-horiz-black__4_.svg" alt="Banner de 42" width="700"></img>
 </p>
 <div align="center">
 	<img src="https://raw.githubusercontent.com/leogaudin/42_project_badges/refs/heads/main/badges/libft_bonus.webp" width="100" />
@@ -85,42 +85,42 @@
 
 ---
 
-## ✨ About this repository
+## ✨ Sobre este repositorio
 
-This repository is my **42 Common Core portfolio**, where I document:
+Este repositorio es mi **portfolio del Common Core de 42**, donde documento:
 
-* 🛠 Completed projects
-* 📈 Personal progress
-* 🧩 Technical challenges overcome
-* 📚 Knowledge gained
+* 🛠 Proyectos completados
+* 📈 Progreso personal
+* 🧩 Retos técnicos superados
+* 📚 Conocimientos adquiridos
 
-> 💡 All learning is based on a **peer-to-peer** methodology and self-directed learning.
+> 💡 Todo el aprendizaje se basa en una metodología **peer-to-peer** (entre iguales) y en el aprendizaje autodirigido.
 
 ---
 
-## 🗂️ Navigation
+## 🗂️ Navegación
 
 <div align="center" text-align="center">
 	
-|              Project              |         Description          |  State |
+|              Proyecto              |         Descripción          |  Estado |
 | ---------------------------------- | ---------------------------- | ------- |
-| [Libft](../../../42-CURSUS---PROJECTS/tree/main/1_Libft)                 | C standard library      | 🟢 125% |
-| [ft_printf](../../../42-CURSUS---PROJECTS/tree/main/2_ft_printf)         | Printf implementation     | 🟢 100% |
-| [get_next_line](../../../42-CURSUS---PROJECTS/tree/main/3_get_next_line) | File reading          | 🟢 103% |
-| [push_swap](../../../42-CURSUS---PROJECTS/tree/main/4_push_swap)         | Sorting algorithms    | 🟢 100% |
-| [so_long](../../../42-CURSUS---PROJECTS/tree/main/5_so_long)             | 2D game                     | 🟢 125% |
-| [minitalk](../../../42-CURSUS---PROJECTS/tree/main/6_minitalk)           | UNIX signs                 | 🟢 100% |
-| [philosophers](../../../42-CURSUS---PROJECTS/tree/main/8_Philosophers)   | concurrency                | 🟢 100% |
+| [Libft](../../../42-CURSUS---PROJECTS/tree/main/1_Libft)                 | Biblioteca estándar de C      | 🟢 125% |
+| [ft_printf](../../../42-CURSUS---PROJECTS/tree/main/2_ft_printf)         | Implementación de printf     | 🟢 100% |
+| [get_next_line](../../../42-CURSUS---PROJECTS/tree/main/3_get_next_line) | Lectura de archivos          | 🟢 103% |
+| [push_swap](../../../42-CURSUS---PROJECTS/tree/main/4_push_swap)         | Algoritmos de ordenación    | 🟢 100% |
+| [so_long](../../../42-CURSUS---PROJECTS/tree/main/5_so_long)             | Juego 2D                     | 🟢 125% |
+| [minitalk](../../../42-CURSUS---PROJECTS/tree/main/6_minitalk)           | Señales UNIX                 | 🟢 100% |
+| [philosophers](../../../42-CURSUS---PROJECTS/tree/main/8_Philosophers)   | Concurrencia                | 🟢 100% |
 | [minishell](../../../42-CURSUS---PROJECTS/tree/main/7_minishell)         | Shell UNIX                   | 🟢 100% |
-| [cub3D](../../../42-CURSUS---PROJECTS/tree/main/9_cub3D)                 | 3D game (Raycasting)        | 🟢 120% |
-| [ft_irc](../../../42-CURSUS---PROJECTS/tree/main/10_ft_irc)              | IRC server                 | 🟢 125% |
-| [CPP](../../../42-CURSUS---PROJECTS/tree/main/CPP)                       | Introduction to the C++ language | 🟡 60%  |
+| [cub3D](../../../42-CURSUS---PROJECTS/tree/main/9_cub3D)                 | Juego 3D (Raycasting)        | 🟢 120% |
+| [ft_irc](../../../42-CURSUS---PROJECTS/tree/main/10_ft_irc)              | Servidor IRC                 | 🟢 125% |
+| [CPP](../../../42-CURSUS---PROJECTS/tree/main/CPP)                       | Introducción al lenguaje C++ | 🟡 60%  |
 
 </div>
 
 ---
 
-## 🤝 Contact
+## 🤝 Contacto
 
 <p align="center" padding="0">
     <a href="https://www.linkedin.com/in/alejandro-maldonado-robles-79873730a/">
